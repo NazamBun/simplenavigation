@@ -3,6 +3,8 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/app/build.gradle.kts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/simplenavigation/MainScreen.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/simplenavigation/ui/screens/ScreenB.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/simplenavigation/ui/screens/SreenA.kt" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
