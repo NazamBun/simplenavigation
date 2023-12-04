@@ -11,11 +11,8 @@ import com.example.simplenavigation.ui.screens.ScreenB
 fun MainScreen() {
     val navController = rememberNavController()
 
-
-
     NavHost(navController = navController, startDestination = "screenA") {
         composable("screenA") { ScreenA(navController)}
-        composable("ok") {}
         composable("screenB") { ScreenB()}
 
     }
